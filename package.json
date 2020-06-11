@@ -1,5 +1,5 @@
 {
-  "name": "npm-package-template",
+  "name": "@c-shell/npm-package-template",
   "version": "0.0.0",
   "description": "A template to give you a quick start on making npm packages",
   "main": "cjs/index.js",
